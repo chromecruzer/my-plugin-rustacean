@@ -1,5 +1,5 @@
 {
-  "name": "@my-plugin/rustacean",
+  "name": "@bunvader/rustacean",
   "version": "0.0.1",
   "main": "index.js",
   "types": "index.d.ts",
@@ -45,5 +45,23 @@
   },
   "packageManager": "yarn@4.5.0",
   "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git",
-  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes"
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "optionalDependencies": {
+    "@my-plugin/rustacean-win32-x64-msvc": "0.0.1",
+    "@my-plugin/rustacean-darwin-x64": "0.0.1",
+    "@my-plugin/rustacean-linux-x64-gnu": "0.0.1",
+    "@my-plugin/rustacean-darwin-arm64": "0.0.1",
+    "@my-plugin/rustacean-android-arm64": "0.0.1",
+    "@my-plugin/rustacean-linux-arm64-gnu": "0.0.1",
+    "@my-plugin/rustacean-linux-arm64-musl": "0.0.1",
+    "@my-plugin/rustacean-win32-arm64-msvc": "0.0.1",
+    "@my-plugin/rustacean-linux-arm-gnueabihf": "0.0.1",
+    "@my-plugin/rustacean-linux-arm-musleabihf": "0.0.1",
+    "@my-plugin/rustacean-linux-x64-musl": "0.0.1",
+    "@my-plugin/rustacean-freebsd-x64": "0.0.1",
+    "@my-plugin/rustacean-win32-ia32-msvc": "0.0.1",
+    "@my-plugin/rustacean-android-arm-eabi": "0.0.1",
+    "@my-plugin/rustacean-darwin-universal": "0.0.1",
+    "@my-plugin/rustacean-linux-riscv64-gnu": "0.0.1"
+  }
 }

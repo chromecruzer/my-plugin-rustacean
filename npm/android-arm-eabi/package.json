@@ -1,5 +1,5 @@
 {
-  "name": "@my-plugin/rustacean-android-arm-eabi",
+  "name": "@bunvader/rustacean-android-arm-eabi",
   "version": "0.0.1",
   "os": [
     "android"

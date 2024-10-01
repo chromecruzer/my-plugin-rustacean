@@ -1,3 +1,3 @@
-# `@my-plugin/rustacean-android-arm64`
+# `@bunvader/rustacean-android-arm64`
 
-This is the **aarch64-linux-android** binary for `@my-plugin/rustacean`
+This is the **aarch64-linux-android** binary for `@bunvader/rustacean`

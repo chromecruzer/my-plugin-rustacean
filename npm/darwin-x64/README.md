@@ -1,3 +1,3 @@
-# `@my-plugin/rustacean-darwin-x64`
+# `@bunvader/rustacean-darwin-x64`
 
-This is the **x86_64-apple-darwin** binary for `@my-plugin/rustacean`
+This is the **x86_64-apple-darwin** binary for `@bunvader/rustacean`

@@ -1,5 +1,5 @@
 {
-  "name": "@my-plugin/rustacean-darwin-arm64",
+  "name": "@bunvader/rustacean-darwin-arm64",
   "version": "0.0.1",
   "os": [
     "darwin"

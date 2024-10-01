@@ -1,5 +1,5 @@
 {
-  "name": "@my-plugin/rustacean-linux-x64-musl",
+  "name": "@bunvader/rustacean-linux-x64-musl",
   "version": "0.0.1",
   "os": [
     "linux"

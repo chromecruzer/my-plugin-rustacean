@@ -1,3 +1,3 @@
-# `@my-plugin/rustacean-linux-arm-gnueabihf`
+# `@bunvader/rustacean-linux-arm-gnueabihf`
 
-This is the **armv7-unknown-linux-gnueabihf** binary for `@my-plugin/rustacean`
+This is the **armv7-unknown-linux-gnueabihf** binary for `@bunvader/rustacean`

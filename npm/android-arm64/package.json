@@ -1,5 +1,5 @@
 {
-  "name": "@my-plugin/rustacean-android-arm64",
+  "name": "@bunvader/rustacean-android-arm64",
   "version": "0.0.1",
   "os": [
     "android"

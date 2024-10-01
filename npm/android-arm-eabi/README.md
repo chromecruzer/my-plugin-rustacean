@@ -1,3 +1,3 @@
-# `@my-plugin/rustacean-android-arm-eabi`
+# `@bunvader/rustacean-android-arm-eabi`
 
-This is the **armv7-linux-androideabi** binary for `@my-plugin/rustacean`
+This is the **armv7-linux-androideabi** binary for `@bunvader/rustacean`

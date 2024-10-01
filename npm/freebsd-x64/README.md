@@ -1,3 +1,3 @@
-# `@my-plugin/rustacean-freebsd-x64`
+# `@bunvader/rustacean-freebsd-x64`
 
-This is the **x86_64-unknown-freebsd** binary for `@my-plugin/rustacean`
+This is the **x86_64-unknown-freebsd** binary for `@bunvader/rustacean`
