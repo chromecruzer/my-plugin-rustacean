@@ -1,0 +1,17 @@
+{
+  "name": "@my-plugin/rustacean-darwin-universal",
+  "version": "0.0.0",
+  "os": [
+    "darwin"
+  ],
+  "main": "rustacean.darwin-universal.node",
+  "files": [
+    "rustacean.darwin-universal.node"
+  ],
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git"
+}

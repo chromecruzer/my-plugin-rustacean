@@ -1,0 +1,20 @@
+{
+  "name": "@my-plugin/rustacean-android-arm-eabi",
+  "version": "0.0.0",
+  "os": [
+    "android"
+  ],
+  "cpu": [
+    "arm"
+  ],
+  "main": "rustacean.android-arm-eabi.node",
+  "files": [
+    "rustacean.android-arm-eabi.node"
+  ],
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git"
+}

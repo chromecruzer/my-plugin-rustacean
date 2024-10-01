@@ -1,0 +1,20 @@
+{
+  "name": "@my-plugin/rustacean-win32-ia32-msvc",
+  "version": "0.0.0",
+  "os": [
+    "win32"
+  ],
+  "cpu": [
+    "ia32"
+  ],
+  "main": "rustacean.win32-ia32-msvc.node",
+  "files": [
+    "rustacean.win32-ia32-msvc.node"
+  ],
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git"
+}

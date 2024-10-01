@@ -1,0 +1,23 @@
+{
+  "name": "@my-plugin/rustacean-linux-x64-musl",
+  "version": "0.0.0",
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "rustacean.linux-x64-musl.node",
+  "files": [
+    "rustacean.linux-x64-musl.node"
+  ],
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git",
+  "libc": [
+    "musl"
+  ]
+}

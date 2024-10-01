@@ -1,0 +1,20 @@
+{
+  "name": "@my-plugin/rustacean-freebsd-x64",
+  "version": "0.0.0",
+  "os": [
+    "freebsd"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "main": "rustacean.freebsd-x64.node",
+  "files": [
+    "rustacean.freebsd-x64.node"
+  ],
+  "description": "This Plug in created by Shyam to make use of RUST TOKIO features in Node/Deno/Bun Runtimes",
+  "license": "MIT",
+  "engines": {
+    "node": ">= 10"
+  },
+  "repository": "https://github.com/chromecruzer/my-plugin-rustacean.git"
+}
